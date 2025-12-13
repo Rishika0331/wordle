@@ -1,8 +1,7 @@
 # Wordle Clone
 
 A browser-based **Wordle** game clone built with HTML, CSS, and JavaScript — playable online.  
-This project implements the classic Wordle experience where players guess a hidden five-letter word within six attempts and receive colored feedback for each guess. :contentReference[oaicite:1]{index=1}
-
+This project implements the classic Wordle experience where players guess a hidden five-letter word within six attempts and receive colored feedback for each guess. 
 ---
 
 ## About
@@ -12,9 +11,6 @@ This repository contains a fully functional *Wordle*-style word guessing game cr
 - **Green** indicates a correct letter in the correct position  
 - **Yellow** indicates a correct letter in the wrong position  
 - **Gray** indicates an incorrect letter
-
-The game resets daily with a new target word and tracks guess feedback until the player wins or exhausts all attempts. :contentReference[oaicite:2]{index=2}
-
 ---
 
 ## Features
